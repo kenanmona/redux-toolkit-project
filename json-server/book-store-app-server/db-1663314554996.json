@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "learn react",
+      "description": "learn react from scratch",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "title": "learn js",
+      "description": "learn js from scratch",
+      "price": 20
+    },
+    {
+      "title": "asd",
+      "price": "23",
+      "description": "adsfd",
+      "id": 3
+    },
+    {
+      "title": "phph",
+      "price": "234",
+      "description": "asdfadsg",
+      "id": 4
+    }
+  ]
+}
